@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# modified (local version)
